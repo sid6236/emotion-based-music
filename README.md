@@ -1,1 +1,2 @@
-# liveEmoji
+# EMOTION BASED MUSIC RECCOMENDATION SYSTEM
+collaborator- @Shubhii10
